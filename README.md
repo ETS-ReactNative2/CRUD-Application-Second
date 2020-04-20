@@ -10,7 +10,7 @@ npm i -g react-native-cli,
 
  npm install, 
 then inside CRUD_EXPRESS folder run   npm run dev, 
-then inside root folder CRUD run   ngrok http 3000.,  If you have not yet installed you can use this link -ngrok https://ngrok.com/
+then inside root folder CRUD run   ngrok http 3000.,  If you have not yet installed ngrok you can use this link -ngrok https://ngrok.com/
 Inside CRUD folder our all source code you can find inside app folder.
 copy http link from ngrok and past inside aap/api/tracker.js baseURL.
 
